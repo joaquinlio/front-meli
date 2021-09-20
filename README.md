@@ -1,4 +1,4 @@
-# Arquitectura Back-meli
+# Arquitectura Front-meli
 
 ## Stack
 * ReactJS
